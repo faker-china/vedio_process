@@ -96,7 +96,7 @@ def main():
     if not video_files:
         raise ValueError("没有找到符合条件的文件")
 
-    start_main_time = time.time()  # 记录主程序开始时间
+    start_main_time = time.time()  # 记录主程序开始时间。
 
     # 分批处理视频文件
     for i in range(0, len(video_files), batch_size):
