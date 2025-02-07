@@ -18,7 +18,7 @@ output_root = r'D:\文档\深度\m_1080\1'
 
 segment_duration = 10
 ffmpeg_path = r'D:\浏览器下载\ffmpeg-7.0.1-essentials_build\ffmpeg-7.0.1-essentials_build\bin\ffmpeg.exe'
-batch_size = 2  # 设定每批处理的视频文件数量
+batch_size = 2  # 设定每批处理的视频文件数量。
 
 
 def split_video(video_file):
