@@ -4,8 +4,6 @@ import logging
 from pathlib import Path
 import cv2
 import concurrent.futures
-from watchdog.observers import Observer
-from watchdog.events import FileSystemEventHandler
 import time
 import threading
 
@@ -15,11 +13,11 @@ if not os.path.exists(log_dir):
 logging.basicConfig(filename=os.path.join(log_dir, 'split_videos.log'), level=logging.INFO,
                     format='%(asctime)s %(levelname)s:%(message)s')
 
-root_path = r'E:\待压缩筛选Logo\崔\电影\电影天堂   OK\切片四分之一'
-output_root = r'F:\26号盘'
+root_path = r'D:\文档\深度\m_1080\新建文件夹'
+output_root = r'D:\文档\深度\m_1080\1'
 
 segment_duration = 10
-ffmpeg_path = r'D:\软件\python\ffmpeg-7.0.1-essentials_build\bin\ffmpeg.exe'
+ffmpeg_path = r'D:\浏览器下载\ffmpeg-7.0.1-essentials_build\ffmpeg-7.0.1-essentials_build\bin\ffmpeg.exe'
 batch_size = 2  # 设定每批处理的视频文件数量
 
 
