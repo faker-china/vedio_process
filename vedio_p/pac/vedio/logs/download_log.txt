@@ -1,0 +1,240 @@
+2025-02-09 13:09:36 - INFO - 开始下载: https://www.youtube.com/shorts/COID9zkoLuQ
+2025-02-09 13:09:55 - INFO - \u2705 视频下载完成！https://www.youtube.com/shorts/COID9zkoLuQ
+2025-02-09 13:09:55 - INFO - 开始下载: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2025-02-09 13:10:31 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2025-02-09 13:10:31 - INFO - 开始下载: https://www.youtube.com/watch?v=3JZ_D3ELwOQ
+2025-02-09 13:10:59 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=3JZ_D3ELwOQ
+2025-02-09 13:12:33 - INFO - 开始下载: https://x.com/xiaoqing6666/media
+2025-02-09 13:12:38 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://x.com/xiaoqing6666/media
+2025-02-09 13:13:20 - INFO - 开始下载: https://x.com/xiaoqing6666/media
+2025-02-09 13:13:25 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://x.com/xiaoqing6666/media
+2025-02-09 13:14:09 - INFO - 开始下载: https://x.com/xiaoqing6666/media
+2025-02-09 13:14:13 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://x.com/xiaoqing6666/media
+2025-02-09 13:14:46 - INFO - 开始下载: https://twitter.com/xiaoqing6666/media
+2025-02-09 13:14:52 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://twitter.com/xiaoqing6666/media
+2025-02-09 13:17:23 - INFO - 开始下载: https://www.bilibili.com/video/BV1AcNpegEt1/?spm_id_from=333.1007.tianma.1-1-1.click
+2025-02-09 13:17:29 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://www.bilibili.com/video/BV1AcNpegEt1/?spm_id_from=333.1007.tianma.1-1-1.click
+2025-02-09 13:19:05 - INFO - 开始下载: https://haokan.baidu.com/v?pd=wisenatural&vid=1089607263754939854
+2025-02-09 13:19:09 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://haokan.baidu.com/v?pd=wisenatural&vid=1089607263754939854
+2025-02-09 13:22:22 - INFO - 开始下载: https://www.yingshidaquantv.com/vod/57055.html
+2025-02-09 13:22:29 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://www.yingshidaquantv.com/vod/57055.html
+2025-02-09 13:25:07 - INFO - 开始下载: https://80sdy.net/d/80882/
+2025-02-09 13:25:12 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://80sdy.net/d/80882/
+2025-02-09 13:27:04 - INFO - 开始下载: https://www.bbc.com/news/articles/cjw4g2q62xqo
+2025-02-09 13:27:39 - INFO - \u2705 视频下载完成！https://www.bbc.com/news/articles/cjw4g2q62xqo
+2025-02-09 18:27:06 - ERROR - \u274c 读取日志文件时发生错误: 'utf-8' codec can't decode byte 0xbf in position 29: invalid start byte
+2025-02-09 18:27:06 - WARNING - 未从日志中提取到有效的视频链接！
+2025-02-09 18:28:06 - INFO - 共提取到 4 个视频链接。
+2025-02-09 18:28:06 - INFO - 开始下载: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2025-02-09 18:28:35 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2025-02-09 18:28:35 - INFO - 开始下载: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2025-02-09 18:29:31 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2025-02-09 18:29:31 - INFO - 开始下载: https://www.youtube.com/watch?v=3JZ_D3ELwOQ
+2025-02-09 18:30:09 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=3JZ_D3ELwOQ
+2025-02-09 18:30:09 - INFO - 开始下载: https://www.youtube.com/watch?v=3JZ_D3ELwOQ
+2025-02-09 18:30:35 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=3JZ_D3ELwOQ
+2025-02-09 18:35:21 - INFO - 开始下载: https://www.youtube.com/watch?v=EyO8RK23H44
+2025-02-09 18:35:47 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=EyO8RK23H44
+2025-02-09 18:35:47 - INFO - 开始下载: https://www.youtube.com/watch?v=xvPQ82PkEoE
+2025-02-09 18:44:11 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=xvPQ82PkEoE
+2025-02-09 18:44:11 - INFO - 开始下载: https://www.youtube.com/watch?v=fBAtrnlAHbg
+2025-02-09 18:49:03 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=fBAtrnlAHbg
+2025-02-09 18:49:03 - INFO - 开始下载: https://www.youtube.com/watch?v=7Ia2xoixpVc
+2025-02-09 18:55:36 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=7Ia2xoixpVc
+2025-02-09 18:55:36 - INFO - 开始下载: https://www.youtube.com/watch?v=YZEatnE9soU
+2025-02-09 20:10:03 - INFO - 开始下载: https://www.youtube.com/watch?v=EyO8RK23H44
+2025-02-09 22:50:10 - INFO - 命令输出: 
+2025-02-09 22:50:10 - ERROR - \u26a0\ufe0f 获取视频链接失败，请检查网络或代理设置！
+2025-02-09 22:50:10 - ERROR - 错误信息: None
+2025-02-09 22:58:21 - INFO - 命令输出: 
+2025-02-09 22:58:21 - ERROR - \u26a0\ufe0f 获取视频链接失败，请检查网络或代理设置！
+2025-02-09 22:58:21 - ERROR - 错误信息: WARNING: [youtube:search] Unable to download webpage: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+WARNING: [youtube:search] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)). Retrying (1/3)...
+WARNING: [youtube:search] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)). Retrying (2/3)...
+WARNING: [youtube:search] ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)). Retrying (3/3)...
+ERROR: Unable to download API page: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)) (caused by TransportError("('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))"))
+
+2025-02-09 23:02:22 - INFO - 命令输出: 
+2025-02-09 23:02:22 - ERROR - \u26a0\ufe0f 获取视频链接失败，请检查网络或代理设置！
+2025-02-09 23:02:22 - ERROR - 错误信息: None
+2025-02-09 23:05:26 - ERROR - \u26a0\ufe0f 获取视频链接失败，请检查网络或代理设置！
+2025-02-09 23:05:26 - ERROR - 错误信息: None
+2025-02-09 23:05:26 - WARNING - 没有获取到视频链接，无法进行下载。
+2025-02-09 23:13:51 - INFO - \u2705 成功获取 10 个视频链接！
+2025-02-09 23:13:51 - INFO - 准备下载 10 个视频链接
+2025-02-09 23:13:51 - INFO - 开始下载: https://www.youtube.com/watch?v=cIYp40E0Rfs
+2025-02-09 23:13:51 - INFO - 开始下载: https://www.youtube.com/watch?v=qyWUuZAG9jU
+2025-02-09 23:13:51 - INFO - 开始下载: https://www.youtube.com/watch?v=zy6uGCYBYso
+2025-02-09 23:17:00 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=cIYp40E0Rfs
+2025-02-09 23:17:00 - INFO - 开始下载: https://www.youtube.com/watch?v=O3SaG-SLxbY
+2025-02-09 23:17:14 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=zy6uGCYBYso
+2025-02-09 23:17:14 - INFO - 开始下载: https://www.youtube.com/watch?v=xz9pGdT_UdI
+2025-02-09 23:18:15 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=qyWUuZAG9jU
+2025-02-09 23:18:15 - INFO - 开始下载: https://www.youtube.com/watch?v=HjHRFH7ayJY
+2025-02-09 23:21:57 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=HjHRFH7ayJY
+2025-02-09 23:21:57 - INFO - 开始下载: https://www.youtube.com/watch?v=nV7hKMASPlw
+2025-02-09 23:22:00 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=xz9pGdT_UdI
+2025-02-09 23:22:00 - INFO - 开始下载: https://www.youtube.com/watch?v=dZFQD3GGBPg
+2025-02-09 23:22:58 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=dZFQD3GGBPg
+2025-02-09 23:22:58 - INFO - 开始下载: https://www.youtube.com/watch?v=VOprvHNRkmE
+2025-02-09 23:24:40 - INFO - 准备下载 1 个视频链接
+2025-02-09 23:24:40 - ERROR - \u274c 无效的视频链接: https://www.douyin.com/?recommend=1
+2025-02-09 23:24:41 - INFO - 下载统计：成功 0 个，失败 1 个。
+2025-02-09 23:28:28 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=VOprvHNRkmE
+2025-02-09 23:28:28 - INFO - 开始下载: https://www.youtube.com/watch?v=cihf0KpExcs
+2025-02-09 23:28:53 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=cihf0KpExcs
+2025-02-09 23:31:11 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=O3SaG-SLxbY
+2025-02-09 23:31:17 - ERROR - \u274c 发生错误: argument of type 'NoneType' is not iterable
+2025-02-09 23:31:17 - INFO - \u23f3 等待 1.95 秒后重试... (第 1 次重试)
+2025-02-09 23:31:19 - INFO - 开始下载: https://www.youtube.com/watch?v=nV7hKMASPlw
+2025-02-09 23:35:56 - INFO - \u2705 成功获取 2 个视频链接！
+2025-02-09 23:35:56 - INFO - 准备下载 2 个视频链接
+2025-02-09 23:35:56 - INFO - 开始下载: https://www.youtube.com/watch?v=EyO8RK23H44
+2025-02-09 23:35:56 - INFO - 开始下载: https://www.youtube.com/watch?v=5hTz23DyMqw
+2025-02-09 23:36:09 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=5hTz23DyMqw
+2025-02-09 23:36:17 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=EyO8RK23H44
+2025-02-09 23:36:17 - INFO - 下载统计：成功 2 个，失败 0 个。
+2025-02-09 23:38:50 - INFO - \u2705 成功获取 2 个视频链接！
+2025-02-09 23:38:50 - INFO - 准备下载 2 个视频链接
+2025-02-09 23:38:50 - INFO - 开始下载: https://www.youtube.com/watch?v=2kIf9UNnrEk
+2025-02-09 23:38:50 - INFO - 开始下载: https://www.youtube.com/watch?v=e9Iq0WUCMWU
+2025-02-09 23:39:11 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=2kIf9UNnrEk
+2025-02-09 23:42:20 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=e9Iq0WUCMWU
+2025-02-09 23:42:20 - INFO - 下载统计：成功 2 个，失败 0 个。
+2025-02-09 23:45:28 - INFO - \u2705 成功获取 1 个视频链接！
+2025-02-09 23:45:28 - INFO - 准备下载 1 个视频链接
+2025-02-09 23:45:28 - INFO - 开始下载: https://www.youtube.com/watch?v=AGV2FQ7zO-4
+2025-02-09 23:45:56 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=AGV2FQ7zO-4
+2025-02-09 23:45:56 - INFO - 下载统计：成功 1 个，失败 0 个。
+2025-02-09 23:48:38 - INFO - \u2705 成功获取 1 个视频链接！
+2025-02-09 23:48:38 - INFO - 准备下载 1 个视频链接
+2025-02-09 23:48:38 - INFO - 开始下载: https://www.youtube.com/watch?v=fTwAz1JC4yI
+2025-02-09 23:49:10 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=fTwAz1JC4yI
+2025-02-09 23:49:10 - INFO - 下载统计：成功 1 个，失败 0 个。
+2025-02-09 23:52:23 - INFO - \u2705 成功获取 1 个视频链接！
+2025-02-09 23:52:23 - INFO - 准备下载 1 个视频链接
+2025-02-09 23:52:23 - INFO - 开始下载: https://www.youtube.com/watch?v=rzhpDT_-TPE
+2025-02-09 23:56:00 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=rzhpDT_-TPE
+2025-02-09 23:56:00 - INFO - 下载统计：成功 1 个，失败 0 个。
+2025-02-10 22:47:58 - INFO - \u2705 成功获取 20 个视频链接！
+2025-02-10 22:47:58 - INFO - 准备下载 20 个视频链接
+2025-02-10 22:47:58 - INFO - 开始下载: https://www.youtube.com/watch?v=bqJwL4zpwrw
+2025-02-10 22:47:58 - INFO - 开始下载: https://www.youtube.com/watch?v=IZrGF4AXkr0
+2025-02-10 22:47:58 - INFO - 开始下载: https://www.youtube.com/watch?v=fPVZ_tzXRJY
+2025-02-10 22:52:48 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=IZrGF4AXkr0
+2025-02-10 22:52:48 - INFO - 开始下载: https://www.youtube.com/watch?v=VOprvHNRkmE
+2025-02-10 22:55:58 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=VOprvHNRkmE
+2025-02-10 22:55:58 - INFO - 开始下载: https://www.youtube.com/watch?v=7Ia2xoixpVc
+2025-02-10 22:59:08 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=bqJwL4zpwrw
+2025-02-10 22:59:08 - INFO - 开始下载: https://www.youtube.com/watch?v=DiuzL8ELWM8
+2025-02-10 22:59:45 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=7Ia2xoixpVc
+2025-02-10 22:59:45 - INFO - 开始下载: https://www.youtube.com/watch?v=vYVqe1mvWjI
+2025-02-10 23:01:26 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=vYVqe1mvWjI
+2025-02-10 23:01:26 - INFO - 开始下载: https://www.youtube.com/watch?v=xUxJXMliAEU
+2025-02-10 23:02:12 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=xUxJXMliAEU
+2025-02-10 23:02:12 - INFO - 开始下载: https://www.youtube.com/watch?v=2g5eAlKmI_I
+2025-02-10 23:02:30 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=2g5eAlKmI_I
+2025-02-10 23:02:30 - INFO - 开始下载: https://www.youtube.com/watch?v=uvxkMqhHaKU
+2025-02-10 23:03:06 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=uvxkMqhHaKU
+2025-02-10 23:03:06 - INFO - 开始下载: https://www.youtube.com/watch?v=i9UpsLiEKMw
+2025-02-10 23:05:22 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=i9UpsLiEKMw
+2025-02-10 23:05:22 - INFO - 开始下载: https://www.youtube.com/watch?v=PPCAq4_xJiE
+2025-02-10 23:07:27 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=PPCAq4_xJiE
+2025-02-10 23:07:27 - INFO - 开始下载: https://www.youtube.com/watch?v=SgNkWePwlbM
+2025-02-10 23:07:52 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=SgNkWePwlbM
+2025-02-10 23:07:52 - INFO - 开始下载: https://www.youtube.com/watch?v=YrIAzDF_KN8
+2025-02-10 23:07:56 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=DiuzL8ELWM8
+2025-02-10 23:07:56 - INFO - 开始下载: https://www.youtube.com/watch?v=TZMsjLiAQU0
+2025-02-10 23:08:16 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=YrIAzDF_KN8
+2025-02-10 23:08:16 - INFO - 开始下载: https://www.youtube.com/watch?v=hlT4ajaXqPA
+2025-02-10 23:08:17 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=TZMsjLiAQU0
+2025-02-10 23:08:17 - INFO - 开始下载: https://www.youtube.com/watch?v=kTvMMKd8MVk
+2025-02-10 23:08:44 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=hlT4ajaXqPA
+2025-02-10 23:08:44 - INFO - 开始下载: https://www.youtube.com/watch?v=TvhZuPFM77k
+2025-02-10 23:09:02 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=TvhZuPFM77k
+2025-02-10 23:09:02 - INFO - 开始下载: https://www.youtube.com/watch?v=xG30DEGomUU
+2025-02-10 23:09:06 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=kTvMMKd8MVk
+2025-02-10 23:09:06 - INFO - 开始下载: https://www.youtube.com/watch?v=3YpzULOB9wk
+2025-02-10 23:09:32 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=3YpzULOB9wk
+2025-02-10 23:09:34 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=xG30DEGomUU
+2025-02-10 23:27:00 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=fPVZ_tzXRJY
+2025-02-10 23:27:00 - INFO - 下载统计：成功 20 个，失败 0 个。
+2025-02-10 23:57:47 - INFO - \u2705 成功获取 3 个视频链接！
+2025-02-10 23:57:47 - INFO - 准备下载 3 个视频链接
+2025-02-10 23:57:47 - INFO - 开始下载: https://www.youtube.com/watch?v=bqJwL4zpwrw
+2025-02-10 23:57:47 - INFO - 开始下载: https://www.youtube.com/watch?v=tiZ-7nOTqxA
+2025-02-10 23:57:47 - INFO - 开始下载: https://www.youtube.com/watch?v=Lx_1zPg2DcU
+2025-02-10 23:59:56 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://www.youtube.com/watch?v=Lx_1zPg2DcU
+2025-02-10 23:59:56 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://www.youtube.com/watch?v=tiZ-7nOTqxA
+2025-02-10 23:59:56 - ERROR - 错误信息: 
+2025-02-10 23:59:56 - INFO - \u23f3 等待 1.07 秒后重试... (第 1 次重试)
+2025-02-10 23:59:56 - ERROR - 错误信息: 
+2025-02-10 23:59:56 - INFO - \u23f3 等待 1.43 秒后重试... (第 1 次重试)
+2025-02-10 23:59:56 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://www.youtube.com/watch?v=bqJwL4zpwrw
+2025-02-10 23:59:56 - ERROR - 错误信息: 
+2025-02-10 23:59:56 - INFO - \u23f3 等待 1.87 秒后重试... (第 1 次重试)
+2025-02-10 23:59:57 - INFO - 开始下载: https://www.youtube.com/watch?v=Lx_1zPg2DcU
+2025-02-10 23:59:57 - INFO - 开始下载: https://www.youtube.com/watch?v=tiZ-7nOTqxA
+2025-02-10 23:59:58 - INFO - 开始下载: https://www.youtube.com/watch?v=bqJwL4zpwrw
+2025-02-11 00:00:35 - INFO - \u2705 成功获取 3 个视频链接！
+2025-02-11 00:00:35 - INFO - 准备下载 6 个视频链接
+2025-02-11 00:00:35 - INFO - 开始下载: https://www.youtube.com/watch?v=bqJwL4zpwrw
+2025-02-11 00:00:35 - INFO - 开始下载: https://www.youtube.com/watch?v=tiZ-7nOTqxA
+2025-02-11 00:00:35 - INFO - 开始下载: https://www.youtube.com/watch?v=Lx_1zPg2DcU
+2025-02-11 00:01:01 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://www.youtube.com/watch?v=Lx_1zPg2DcU
+2025-02-11 00:01:01 - ERROR - 错误信息: 
+2025-02-11 00:01:01 - INFO - \u23f3 等待 1.03 秒后重试... (第 1 次重试)
+2025-02-11 00:01:01 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://www.youtube.com/watch?v=bqJwL4zpwrw
+2025-02-11 00:01:01 - ERROR - 错误信息: 
+2025-02-11 00:01:01 - INFO - \u23f3 等待 1.57 秒后重试... (第 1 次重试)
+2025-02-11 00:01:01 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://www.youtube.com/watch?v=tiZ-7nOTqxA
+2025-02-11 00:01:01 - ERROR - 错误信息: 
+2025-02-11 00:01:01 - INFO - \u23f3 等待 1.09 秒后重试... (第 1 次重试)
+2025-02-11 00:01:02 - INFO - 开始下载: https://www.youtube.com/watch?v=Lx_1zPg2DcU
+2025-02-11 00:01:02 - INFO - 开始下载: https://www.youtube.com/watch?v=tiZ-7nOTqxA
+2025-02-11 00:01:02 - INFO - 开始下载: https://www.youtube.com/watch?v=bqJwL4zpwrw
+2025-02-11 00:06:56 - INFO - \u2705 成功获取 1 个视频链接！
+2025-02-11 00:06:56 - INFO - 准备下载 7 个视频链接
+2025-02-11 00:06:56 - INFO - 开始下载: https://www.youtube.com/watch?v=bqJwL4zpwrw
+2025-02-11 00:06:56 - INFO - 开始下载: https://www.youtube.com/watch?v=tiZ-7nOTqxA
+2025-02-11 00:06:56 - INFO - 开始下载: https://www.youtube.com/watch?v=Lx_1zPg2DcU
+2025-02-11 00:09:38 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://www.youtube.com/watch?v=tiZ-7nOTqxA
+2025-02-11 00:09:38 - ERROR - 错误信息: 
+2025-02-11 00:09:38 - INFO - \u23f3 等待 1.09 秒后重试... (第 1 次重试)
+2025-02-11 00:09:38 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://www.youtube.com/watch?v=bqJwL4zpwrw
+2025-02-11 00:09:38 - ERROR - 错误信息: 
+2025-02-11 00:09:38 - INFO - \u23f3 等待 1.83 秒后重试... (第 1 次重试)
+2025-02-11 00:09:39 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://www.youtube.com/watch?v=Lx_1zPg2DcU
+2025-02-11 00:09:39 - ERROR - 错误信息: 
+2025-02-11 00:09:39 - INFO - \u23f3 等待 1.17 秒后重试... (第 1 次重试)
+2025-03-10 16:22:04 - INFO - 开始下载: https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:22:13 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:24:54 - INFO - 开始下载: https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:25:02 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:27:51 - INFO - \u2705 代理设置成功: http://127.0.0.1:7890
+2025-03-10 16:27:51 - INFO - 开始下载: https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:28:54 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:32:44 - INFO - \u2705 代理设置成功: http://127.0.0.1:7890
+2025-03-10 16:32:44 - INFO - 开始下载: https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:32:55 - ERROR - \u26a0\ufe0f 视频下载失败，请检查网络或代理设置！https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:34:29 - INFO - \u2705 代理设置成功: http://127.0.0.1:7890
+2025-03-10 16:34:29 - INFO - 开始下载: https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:34:39 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:36:33 - INFO - \u2705 代理设置成功: http://127.0.0.1:7890
+2025-03-10 16:36:33 - INFO - 开始下载: https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:36:44 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:39:41 - INFO - \u2705 代理设置成功: http://127.0.0.1:7890
+2025-03-10 16:39:41 - INFO - 开始下载: https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:39:52 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:42:49 - INFO - \u2705 代理设置成功: http://127.0.0.1:7890
+2025-03-10 16:42:49 - INFO - 开始下载: https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:42:59 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:43:10 - INFO - \u2705 代理设置成功: http://127.0.0.1:7890
+2025-03-10 16:43:10 - INFO - 开始下载: https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:43:21 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:44:39 - INFO - \u2705 代理设置成功: http://127.0.0.1:7890
+2025-03-10 16:44:39 - INFO - 开始下载: https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:44:52 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:45:15 - INFO - \u2705 代理设置成功: http://127.0.0.1:7890
+2025-03-10 16:45:15 - INFO - 开始下载: https://www.youtube.com/watch?v=x__y5w3KSr0
+2025-03-10 16:45:30 - INFO - \u2705 视频下载完成！https://www.youtube.com/watch?v=x__y5w3KSr0

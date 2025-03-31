@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/chap2/note.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/chap2/text.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/vedio_p/pac/image/scraping_errors.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/vedio_p/pac/vedio/logs/download_log.txt" charset="GBK" />
   </component>
 </project>
